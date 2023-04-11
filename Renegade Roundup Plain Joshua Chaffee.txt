@@ -1,0 +1,42 @@
+﻿Renegade Roundup 
+Prologue: An event at The Grand, a castle which is the epicenter of everything in the floating city prompts everyone in the city and every big name figure across the world to come see the spectacle that is its grand opening. With an event as big as this our heroes are surely bound to make their way one way or another. This opening, however, may be serving as more than what meets the eye with some of the guards acting a bit strange like they're looking for someone…With all eyes on The Grand, all types of people are attracted to the glamor of the castle whether it be good or bad and with something at play behind the scenes it looks like this event is the perfect melting pot for trouble.
+Short Backstory: It’s known that under the city’s glamorous lifestyle lies a prominent underworld and criminal presence. Known politicians can and will be bought out in order to help protect their reign and keep them safe from prosecution by any means necessary. Even the police aren’t safe from corruption, but as long as they are lining their pockets they don’t care. 
+* Who’s at The Grand and why is the grand opening such a big deal?
+* What’s city life like without all the prettiness and money? Is it easy to make it big or is it a cycle of crime and regrets?
+* How much influence does the criminal underground have throughout the city?
+* How much does it cost to live here? 
+* What exactly about your presence makes the guards suspicious about you all which sets the stage for the beginning?
+* Who is controlling the underground and why do they want you?
+The Grand’s opening prompts everyone to be there at the dawn of night. The big, rich figures, every politician in the city, and anyone who wants to make themselves known in order to finally have a shot in order to make themselves known and to make it big. You aren’t too keen on the type of attention this event may bring, however the allure of everything that could be overpowers you. You could be able to make a quick buck from everyone…methods involving how are unclear but you’ll get there when you get there. As you enter the castle you already feel out of place. Millionaires all over, actors, executives, barely a regular person in sight. Well, time to figure out how to make this money…
+
+
+Criminal Underworld: The city’s darkside where no one wants to get up close and personal with. No one knows who’s responsible for it or who controls it. They control almost every aspect of the city in regards to who runs it and its policies in order to make every operation for them easier and getting in their way is less than ideal. No one knows what they're after but who knows how far they are willing to go to get it..if they gain control of the city who knows if they’ll just stop at you or anyone else?
+Grim Portents
+* A guard learns of your presence 
+* If you decide to pick a fight with the guards and leave the unconscious one behind they’ll figure out something is up and will be on alert
+* The Mayor is made aware of you
+* Guard Presence is now amplified slightly
+Stakes
+* How will the mayor respond when he finds out about your antics in his castle?
+* What happens if you get arrested?
+* Will you be able to get out of the castle once you’re done?
+NPCs
+* John Baret: The mayor of the city and new owner of The Grand. After becoming the mayor during the past year, John wants to control every aspect of it himself. However, his thirst for control gets him involved with the underground and one way or another he has to go through them. While not too keen on sharing his power he works with the underground as he sees that they both have a common goal but it is clear that his “loyalty” is just a ploy. Playing the long game is what he’s good at and what he intends to do.
+* Frieg Stein: One of the world leaders in the realm although seemingly not as corrupt. He considers showing up to the grand as a professional courtesy and isn’t interested in the world domination aspect of his rule. Where he comes from you don’t know yet however…
+* Mama: The owner of The Ball, a bar frequented by many. She’s been running the bar and has welcomed you with open arms for as long as you can remember. She protects her bar with her life as it is the most important thing to her since her family died and left everything to her. Keeping on the family legacy at its finest. She doesn’t really want to get involved with the trouble you may bring but she still tries to help as much as she can. 
+Monsters/Enemies
+* Random Thug:  A thug looking to prove themselves to the underground. Health is 5, Attack is 1 and Defense is 0. All these guys know is punch wildly and not much else. There’s a reason why they’re considered the lowest of the low. 
+* Castle Guard: Guards appointed to protect yours truly: John Baret. Just a lackey with a baton, Health is 8, Defense is 3, and Attack is 3. Be sure to not get surrounded by many and lure them out one by one otherwise you may be in for a world of hurt.
+Area 1: The Grand
+The multifloor castle that’s owned by the mayor of the city. It’s currently holding a grand opening event where all types of people are present. Since it’s a party you can expect almost every room to be full of people. The great hall is where you’ll end up after entering through the front but it seems like everywhere else is blocked or at least not open to the public. If you want to explore around you’ll have to make some effort to find ways to get there as all the doorways are heavily guarded. You can try to make small talk with the folks inside in order to try to gain more info about what’s here or you can try to brute force your way into the guarded rooms.
+Area 2: City Outskirts; Little Sunshine
+A small suburb that consists of people who tried to make a living but were chased out and don’t want anything to do with the seemingly corrupt. Everyone here has struggled one way or another so they are pretty open to helping you out as long as you don't bring trouble for anyone else. There’s a couple stores that you can go into to buy supplies and patch yourself up and talk to the locals in order to figure out where to go next after being chased out and escaping the city yourself.
+Area 3: The Grand: Prison
+An area below the castle meant for who the mayor deems unworthy or the worst of the worst. If you are not careful you could end up a cellmate in this large prison. Upon walking in you see a large cube room with cells lined up across the walls. Even though it’s the grand opening there's already some people occupying them. Something else is clearly happening but you don’t have time to think about it; there are guards along every wall and you need to get to the exit on the second floor of the prison with three guards blocking the staircase. Lingering here would surely end your antics as quickly as they began.
+Custom Moves: Area 1; You attempt to create small talk to get an idea of what type of people are here and why. On a 10+ he tells you about the event and even sprinkles in interesting, on a 6-9 he tells you about the event but wonders why someone like you is here, on a miss he dismisses you and has a chance to warn a guard about you in which you’ll have to roll again in order to find out. If he dismisses you, on a single dice roll if you roll a 2, 3, or 5 he won’t go to the guard. Anything else and you’ll have to start treading lightly from here on out.
+ Spout Lore:
+* The mayor has a questionable past. Find out about what he’s been up to throughout the years and maybe you could use that to your advantage.
+* There are many rooms which you could sneak into in the castle but be careful, The Grand isn’t all what it seems. Something more sinister is going on so if you do decide to break in stay on guard at all times lest you end up wanted by every guard in the castle or even dead
+* Many world leaders are at this opening ready to line their pockets with power, money, anything they could get their hands on. Best not to make a show, but if you do just make sure you aren’t easily seen.
+A List of Procedural Map Generation Tools for DND and the like:
+https://www.dnd-compendium.com/dm-resources/maps-map-tools
